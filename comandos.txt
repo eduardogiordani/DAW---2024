@@ -1,0 +1,2 @@
+ctrl+d --------------> Selecionar multiplas linhas para escrever.
+alt+flechas----------> Mover seleção
