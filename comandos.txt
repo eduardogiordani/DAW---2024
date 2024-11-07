@@ -1,2 +1,13 @@
 ctrl+d --------------> Selecionar multiplas linhas para escrever.
 alt+flechas----------> Mover seleção
+
+
+PROVA
+
+TODA VEZ QUE FOR ID = "#"
+QUANDO É CLASS USA = "."
+
+T/B L/R
+
+"section>h2" | Usa o ">" para aplicar a formatação só para os filhos do elemento.
+"section h2" | Usa o " " para aplicar a formatação para o elemento e seus filhos.
